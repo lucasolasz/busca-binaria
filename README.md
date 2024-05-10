@@ -6,8 +6,6 @@ Algoritmo de busca binária com impressão no console de como o array está se c
 # Binary search
 
 Binary search algorithm with printout on the console of how the array is behaving. 
-## Screenshots
-
 
 ## Exemplo de execução
 
